@@ -6,7 +6,7 @@ Complete starter pack with gulp and sass.<br>
 
 <div><code>npm install</code></div>
 
-<h2>Compile SaSS &amp; Run Development Server</h2>
+<h2>Compile Sass &amp; Run Development Server</h2>
 
 <code>npm start</code>
 
